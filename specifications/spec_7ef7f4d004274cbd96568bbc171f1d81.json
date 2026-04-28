@@ -1,0 +1,15 @@
+{
+  "email": "a@b.c",
+  "parts": [
+    {
+      "id": 1,
+      "make": "VW",
+      "model": "Golf",
+      "year": 2010,
+      "category": "brake",
+      "title": "pad",
+      "code": "X1",
+      "price": 5.0
+    }
+  ]
+}
